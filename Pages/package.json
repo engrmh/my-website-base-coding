@@ -1,0 +1,17 @@
+{
+  "name": "Login",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "boxicons": "^2.1.4",
+    "sweetalert2": "^11.7.3"
+  }
+}

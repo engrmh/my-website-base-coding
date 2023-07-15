@@ -1,0 +1,34 @@
+{
+  "name": "mhpsite",
+  "version": "1.0.0",
+  "description": "This is my personal web site than i created for resume",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mohammad",
+    "hosein",
+    "salim",
+    "bahrami",
+    "Engr.MH",
+    "mohammad",
+    "hosein",
+    "salim",
+    "bahrami",
+    "Engr",
+    "Mohammad",
+    "hosein",
+    "salimbahrami",
+    "salimbahrami"
+  ],
+  "author": "Engr.MH",
+  "license": "ISC",
+  "dependencies": {
+    "@sweetalert2/theme-dark": "^5.0.15",
+    "bootstrap": "^5.2.3",
+    "boxicons": "^2.1.4",
+    "sweetalert2": "^11.7.3",
+    "typewriter-effect": "^2.19.0"
+  }
+}

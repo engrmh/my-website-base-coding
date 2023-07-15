@@ -1,0 +1,13 @@
+@font-face {
+    font-family: crossbar;
+    src: url(../fonts/Crossbar.otf) format('otf'),
+        url('../fonts/Crossbar.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: Baksoda;
+    src: url(../fonts/Baksoda.ttf) format('ttf');
+    font-weight: normal;
+    font-style: normal;
+}
